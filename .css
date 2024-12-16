@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: linear-gradient(red,purple,blue);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-size: contain;
+    background-position: fixed;
+}
+
+header {
+    width: 100%;
+    display: grid;
+} 
+
+#sturborn{
+    font-size: 3rem;
+    margin: 10px;
+    position: fixed;
+    background-color: rgba(244, 13, 13, 0.368);
+}
+
+h1 {
+    background-color: rgba(244, 117, 117, 0.26);
+} 
+
+#sec1 {
+    margin-top: 30px;
+}
+
+#h2m {
+    text-align: center;
+    color: aqua;
+}
+
+#div2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fic {
+    margin: 10px;
+    border-radius: 15px;
+    height: 200px;
+    width: 200px;
+}
+
+#sec2 {
+    margin-top: 30px;
+}
+
+#h3m {
+    text-align: center;
+    color: aqua;
+}
+
+#div4 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#pw {
+    margin-top: 60px;
+    margin-left: 30px;
+    font-size: x-large;
+}
+
+#ull {
+    font-size: 2rem;
+}
+
+#floop {
+    display: flex;
+    margin: 30px;
+    justify-content: space-between;
+}
